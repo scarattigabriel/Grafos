@@ -1,0 +1,20 @@
+# Executáveis
+main
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build
+build/
+bin/
+output/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
